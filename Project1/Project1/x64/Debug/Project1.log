@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\github代码\新建文件夹\DataStructrue\Project1\Project1\FileName.cpp(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+D:\github代码\新建文件夹\DataStructrue\Project1\Project1\FileName.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\github代码\新建文件夹\DataStructrue\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
